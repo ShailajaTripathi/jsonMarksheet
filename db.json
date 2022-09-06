@@ -103,12 +103,12 @@
   "secondpart": [
     {
       "subject": "Development & Maturity",
-      "grade": "B",
+      "grade": "A",
       "id": 1
     },
     {
       "subject": "Responsibility",
-      "grade": null,
+      "grade":"A+",
       "id": 2
     },
     {
@@ -118,17 +118,17 @@
     },
     {
       "subject": "Participation in Group Work",
-      "grade": "B",
+      "grade": null,
       "id": 4
     },
     {
       "subject": "Neatness",
-      "grade": "A",
+      "grade": null,
       "id": 5
     },
     {
       "subject": "Music",
-      "grade": "A+",
+      "grade": null,
       "id": 6
     },
     {
