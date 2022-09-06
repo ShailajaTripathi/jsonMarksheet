@@ -2,11 +2,11 @@
   "firstpart": [
     {
       "subject": "English",
-      "fa": 9,
-      "oralf": 9,
-      "sa": 9,
-      "orals": 9,
-      "total": 36,
+      "fa": null,
+      "oralf": null,
+      "sa": null,
+      "orals": null,
+      "total": null,
       "id": 1
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "subject": "Math",
-      "fa": 1,
-      "oralf": 1,
-      "sa": 1,
-      "orals": 1,
-      "total": 4,
+      "fa": null,
+      "oralf": null,
+      "sa": null,
+      "orals": null,
+      "total": null,
       "id": 4
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "subject": "Responsibility",
-      "grade": "C",
+      "grade": null,
       "id": 2
     },
     {
       "subject": "Self Confidence",
-      "grade": "V",
+      "grade": null,
       "id": 3
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "subject": "Neatness",
-      "grade": "K",
+      "grade": "A",
       "id": 5
     },
     {
       "subject": "Music",
-      "grade": "N",
+      "grade": "A+",
       "id": 6
     },
     {
@@ -184,9 +184,9 @@
     },
     {
       "term": "Term - II",
-      "workingDays": 18,
-      "presentDays": 12,
-      "percentage": 13,
+      "workingDays": null,
+      "presentDays": null,
+      "percentage":null,
       "id": 2
     }
   ],
